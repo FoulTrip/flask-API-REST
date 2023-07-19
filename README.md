@@ -9,7 +9,7 @@ To run the API on your local machine, follow the steps below:
  - Install the required Python packages using the following command:
    ```bash
    pip install Flask Flask-MySQLdb flask-cors
-    
+
 # Setting up the Database
  - Ensure you have MySQL installed, and you can access it with a valid username and password.
  - Create a new database named 'usersdetails' using the MySQL client or any MySQL management tool of your choice.
